@@ -1,0 +1,32 @@
+# Environment
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# ML models (downloaded automatically on first run)
+*.pt
+*.pth
+*.bin
+
+# Temp files
+backend/uploads/*
+backend/temp/*
+backend/static/frames/*
+backend/static/poses/*
+backend/static/blinks/*
+
+# OS
+.DS_Store
+Thumbs.db
