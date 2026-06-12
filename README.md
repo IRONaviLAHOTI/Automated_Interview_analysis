@@ -52,5 +52,3 @@ DB_PASSWORD=
 ## Deploy
 See DEPLOY_PROMPT.md — paste its contents into ChatGPT for full deployment guide.
 =======
-# Automated_Interview_analysis
->>>>>>> bf989c06f907897051275d25953a9ab0e0f7f7aa
